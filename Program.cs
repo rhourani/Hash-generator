@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        //Generate file
+        //Generate file 
         string filePath = "C:\\Users\\Admin\\source\\repos\\Hash\\simple.txt";
         string text = "Cryptography is the building block of Security Protocols";
 
